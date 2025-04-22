@@ -1,4 +1,4 @@
-BIRADS;AGE;SHAPE;MARGIN;DENSITY;RESULT
+BIRADS;Age;Shape;Margin;Density;Severity
 5;67;3;5;3;1
 5;58;4;5;3;1
 4;28;1;1;3;0
