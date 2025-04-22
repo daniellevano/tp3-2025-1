@@ -1,0 +1,26 @@
+RESUMEN GIT
+
+* Crear repositorio: git init
+* Crear carpeta: mkdir
+*******************************************
+* Working directory a Staging area: git add -A
+* SA -> Repositorio: git commit -m "mensaje"
+**********************************************
+* listar versiones: git log
+* diferencias entre cada commit: git log -p
+*******************************************
+Para enviar de git --> github (Primera vez)
+1. Crear repositorio en github
+2. crear repositorio en git
+3. En git: git remote ..... / git push
+******************************************
+Para enviar de git --> github (segunda vez)
+* git push
+*******************************************
+Para clonar proyectos desde github
+- git clone URL_github
+*******************************************
+Cómo eliminar el "origin" de un repositorio Git
+* git remote -v
+* git remote rm origin
+https://desarrolloweb.com/faq/como-eliminar-el-origin-de-un-repositorio-git
